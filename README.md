@@ -74,5 +74,4 @@
    - Select at the bottom - "Select users who can remotely access this PC"
    - Be sure to add "Domain Users"
      ![image](https://github.com/chriskhawaja/activedirectory/assets/153021794/42870c26-fd05-453a-ad06-c9763283a28f)
-- As you can see, we are officially signed onto VM2 with the bat.juko account we made in AD
-  ![image](https://github.com/chriskhawaja/activedirectory/assets/153021794/fc21a17
+- We can now log in with the bat.juko account from VM2 and access the Active Directory Domain 
