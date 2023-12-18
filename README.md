@@ -63,6 +63,7 @@
 - Below Network ID, select the "Change" button and input your domain name
   ![image](https://github.com/chriskhawaja/activedirectory/assets/153021794/d60030e2-601c-4fe1-9972-59071ea9bbb7)
 - Since we created 1,000 accounts on the DC, we will use one of those accounts to connect the Client to the Domain
+  
  ![image](https://github.com/chriskhawaja/activedirectory/assets/153021794/028b8ea0-164a-4b79-b59d-8385ab237b2b)
 - We can now see that our Client-VM is connect to our Domain Controller
 ![image](https://github.com/chriskhawaja/activedirectory/assets/153021794/e42753a7-3a6a-4374-8b34-a277378850af)
